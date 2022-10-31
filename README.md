@@ -2,7 +2,7 @@
 
 🤔 Installation Guide:
 
-1. [Download the extension](https://github.com/SpriseApps/Fansly-Downloader/archive/refs/heads/main.zip) and unzip it to a folder
+1. [Download the extension](https://github.com/SpriseApps/Fansly-Downloader/raw/main/Fansly%20Downloader.zip) and unzip it to a folder
 2. Paste in chrome://extensions/ in your URL bar
 3. Turn on Developer Mode in the top right corner
 4. In the new menu, select "Load unpacked" and select the folder with the unzipped files.
